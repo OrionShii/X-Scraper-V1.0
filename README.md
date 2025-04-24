@@ -36,7 +36,7 @@
 
 1. Clone this repository:
    ```
-   git clone https://github.com/OrionShii/x-scraper.git
+   git clone https://github.com/OrionShii/X-Scraper-V1.0.git
    cd x-scraper
    ```
 
